@@ -1,0 +1,9 @@
+source;share/pose_to_odom/hook/pythonpath.ps1
+source;share/pose_to_odom/hook/pythonpath.dsv
+source;share/pose_to_odom/hook/pythonpath.sh
+source;share/pose_to_odom/hook/ament_prefix_path.ps1
+source;share/pose_to_odom/hook/ament_prefix_path.dsv
+source;share/pose_to_odom/hook/ament_prefix_path.sh
+source;../../build/pose_to_odom/share/pose_to_odom/hook/pythonpath_develop.ps1
+source;../../build/pose_to_odom/share/pose_to_odom/hook/pythonpath_develop.dsv
+source;../../build/pose_to_odom/share/pose_to_odom/hook/pythonpath_develop.sh

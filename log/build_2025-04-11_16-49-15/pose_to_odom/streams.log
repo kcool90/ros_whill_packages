@@ -1,0 +1,19 @@
+[0.387s] Invoking command in '/home/group1/kody_party_ws/build/pose_to_odom': PYTHONPATH=/home/group1/kody_party_ws/build/pose_to_odom/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/group1/kody_party_ws/install/pose_to_odom/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/group1/kody_party_ws/build/pose_to_odom/build --no-deps symlink_data
+[0.548s] running develop
+[0.548s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.548s]   warnings.warn(
+[0.659s] running egg_info
+[0.659s] writing pose_to_odom.egg-info/PKG-INFO
+[0.659s] writing dependency_links to pose_to_odom.egg-info/dependency_links.txt
+[0.659s] writing entry points to pose_to_odom.egg-info/entry_points.txt
+[0.659s] writing requirements to pose_to_odom.egg-info/requires.txt
+[0.659s] writing top-level names to pose_to_odom.egg-info/top_level.txt
+[0.660s] reading manifest file 'pose_to_odom.egg-info/SOURCES.txt'
+[0.661s] writing manifest file 'pose_to_odom.egg-info/SOURCES.txt'
+[0.661s] running build_ext
+[0.662s] Creating /home/group1/kody_party_ws/install/pose_to_odom/lib/python3.10/site-packages/pose-to-odom.egg-link (link to .)
+[0.662s] Installing pose_to_odometry_node script to /home/group1/kody_party_ws/install/pose_to_odom/lib/pose_to_odom
+[0.662s] 
+[0.662s] Installed /home/group1/kody_party_ws/build/pose_to_odom
+[0.662s] running symlink_data
+[0.680s] Invoked command in '/home/group1/kody_party_ws/build/pose_to_odom' returned '0': PYTHONPATH=/home/group1/kody_party_ws/build/pose_to_odom/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/group1/kody_party_ws/install/pose_to_odom/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/group1/kody_party_ws/build/pose_to_odom/build --no-deps symlink_data

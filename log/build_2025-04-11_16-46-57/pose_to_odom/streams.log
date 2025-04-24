@@ -1,0 +1,25 @@
+[0.443s] Invoking command in '/home/group1/kody_party_ws/build/pose_to_odom': PYTHONPATH=/home/group1/kody_party_ws/build/pose_to_odom/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/group1/kody_party_ws/install/pose_to_odom/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/group1/kody_party_ws/build/pose_to_odom/build --no-deps symlink_data
+[0.617s] running develop
+[0.620s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.620s]   warnings.warn(
+[0.733s] running egg_info
+[0.733s] creating pose_to_odom.egg-info
+[0.733s] writing pose_to_odom.egg-info/PKG-INFO
+[0.733s] writing dependency_links to pose_to_odom.egg-info/dependency_links.txt
+[0.734s] writing entry points to pose_to_odom.egg-info/entry_points.txt
+[0.734s] writing requirements to pose_to_odom.egg-info/requires.txt
+[0.734s] writing top-level names to pose_to_odom.egg-info/top_level.txt
+[0.734s] writing manifest file 'pose_to_odom.egg-info/SOURCES.txt'
+[0.735s] reading manifest file 'pose_to_odom.egg-info/SOURCES.txt'
+[0.735s] writing manifest file 'pose_to_odom.egg-info/SOURCES.txt'
+[0.736s] running build_ext
+[0.736s] Creating /home/group1/kody_party_ws/install/pose_to_odom/lib/python3.10/site-packages/pose-to-odom.egg-link (link to .)
+[0.737s] 
+[0.737s] Installed /home/group1/kody_party_ws/build/pose_to_odom
+[0.737s] running symlink_data
+[0.737s] creating /home/group1/kody_party_ws/install/pose_to_odom/share/ament_index
+[0.737s] creating /home/group1/kody_party_ws/install/pose_to_odom/share/ament_index/resource_index
+[0.737s] creating /home/group1/kody_party_ws/install/pose_to_odom/share/ament_index/resource_index/packages
+[0.737s] symbolically linking /home/group1/kody_party_ws/build/pose_to_odom/resource/pose_to_odom -> /home/group1/kody_party_ws/install/pose_to_odom/share/ament_index/resource_index/packages
+[0.737s] symbolically linking /home/group1/kody_party_ws/build/pose_to_odom/package.xml -> /home/group1/kody_party_ws/install/pose_to_odom/share/pose_to_odom
+[0.756s] Invoked command in '/home/group1/kody_party_ws/build/pose_to_odom' returned '0': PYTHONPATH=/home/group1/kody_party_ws/build/pose_to_odom/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/group1/kody_party_ws/install/pose_to_odom/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/group1/kody_party_ws/build/pose_to_odom/build --no-deps symlink_data
